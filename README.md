@@ -1,1 +1,1 @@
-This repository include a data challenge for predictive maintenance. 
+This repository includes time-series anomaly detection data, notebook, etc. 
